@@ -23,5 +23,5 @@
 - It’s use to write a text file
 # I  
 - stands for insert when you want to type anything in your text file
-# ESC key + :wq  
+# ESC key + shift:wq  
 - This is to save whatever you are writing in your VIM editor and it also quits the vim editor
