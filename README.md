@@ -2,7 +2,7 @@
 # Sudo du  
 - This command puts you in a root environment
 # SU  
-- stands for super user and it’s used to run a function as a different user
+- stands for substitute user and it’s used to run a function as a different user
 # CD  
 - this means change directory. Moving in and out of directory
 # APT  
